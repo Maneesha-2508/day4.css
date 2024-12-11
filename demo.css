@@ -1,0 +1,30 @@
+.white{
+    background-color: white;
+    color: black;
+}
+.black{
+    background-color:black;
+    color: white;
+}
+td{
+    width: 75px;
+    height: 75px;
+    font-size: 50px;
+
+}
+table.all{
+    border: solid 20px rgb(0, 0, 0);
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+td:hover {
+    background-color: rgb(152, 155, 161);
+    font-size: 50px;
+  }
